@@ -1,5 +1,5 @@
 @echo off
-echo Ceci est mon premier script sous git
+echo ceci est mon premier script sous git
 netstat -ano
 ipconfig
 pause
